@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="132.88609mm"
+   height="128.96439mm"
+   viewBox="0 0 132.88609 128.96439"
+   version="1.1"
+   id="svg5165"
+   sodipodi:docname="szigetelés2.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs5159">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient39">
+      <stop
+         style="stop-color:#00ccff;stop-opacity:1;"
+         offset="0"
+         id="stop35" />
+      <stop
+         style="stop-color:#00ccff;stop-opacity:0"
+         offset="1"
+         id="stop37" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39"
+       id="radialGradient43"
+       cx="123.75425"
+       cy="112.66822"
+       fx="123.75425"
+       fy="112.66822"
+       r="29.104166"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9301361,0.04527345,-0.05127925,1.7438307,-151.37844,-77.93529)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6348">
+      <rect
+         style="opacity:1;fill:#ffaaaa;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect6350"
+         width="204.86308"
+         height="66.901787"
+         x="-28.203753"
+         y="119.19869" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6422">
+      <g
+         id="g6426"
+         transform="translate(-90.85324,38.62685)"
+         style="fill:#0000ff">
+        <path
+           id="path6424"
+           style="fill:#0000ff;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 181.56253,80.490987 h -15.61638 c -14.14629,8.663571 -35.66965,8.364241 -49.76999,8.291171 L 97.047986,135.70511 259.28059,137.04146 231.33252,88.782158 c -14.10034,0.07307 -35.6237,0.3724 -49.76999,-8.29117"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="746.60706"
+     inkscape:cy="583.41873"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="731"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5162">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.263512,-52.978356)">
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient43);fill-opacity:1;stroke:none;stroke-width:0.57083964"
+       id="path33"
+       cx="81.706558"
+       cy="122.60048"
+       rx="66.443047"
+       ry="59.342258"
+       clip-path="url(#clipPath6422)"
+       transform="translate(0,-1.0583333)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5250"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion5252"><rect
+           id="rect5254"
+           width="362.85712"
+           height="124.28571"
+           x="191.97459"
+           y="542.80035" /></flowRegion><flowPara
+         id="flowPara5256"></flowPara></flowRoot>    <g
+       id="g5330"
+       transform="translate(25.645399,-13.612706)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path876"
+         d="M 34.946681,67.794249 C 36.619855,101.05614 49.44751,131.67221 49.44751,131.67221"
+         style="fill:none;stroke:#000000;stroke-width:0.3213957px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path876-3"
+         d="M 79.564721,67.794249 C 77.891548,101.05614 65.06389,131.67221 65.06389,131.67221 H 49.44751"
+         style="fill:none;stroke:#000000;stroke-width:0.3213957px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="67.190887"
+         x="56.247536"
+         height="64.475128"
+         width="1.9031854"
+         id="rect910"
+         style="opacity:1;fill:#000000;stroke:none;stroke-width:0.17796698" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5274-4"
+         d="M 56.706796,90.005121 C 48.451072,84.958773 46.06501,75.667049 44.695856,66.619033"
+         style="fill:none;stroke:#000000;stroke-width:0.37390006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5274-4-7"
+         d="M 57.645625,90.075342 C 65.901349,85.028994 68.287411,75.73727 69.656565,66.689255"
+         style="fill:none;stroke:#000000;stroke-width:0.37390006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.244102px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52034181"
+       x="-108.35792"
+       y="80.91433"
+       id="text6298"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan6296"
+         x="-108.35792"
+         y="80.91433"
+         style="stroke-width:0.52034181">szénszál</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.38212919px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44851074"
+       x="86.947716"
+       y="85.658775"
+       id="text6302"><tspan
+         sodipodi:role="line"
+         id="tspan6300"
+         x="86.947716"
+         y="85.658775"
+         style="stroke-width:0.44851074">üveg</tspan></text>
+  </g>
+</svg>
